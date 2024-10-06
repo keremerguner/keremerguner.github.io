@@ -1388,7 +1388,7 @@ section,
 }
 
 .portfolio-details .swiper-wrapper {
-  height: auto;
+  height: 50% !important;
 }
 
 .portfolio-details .swiper-button-prev,
